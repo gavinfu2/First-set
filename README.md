@@ -1,6 +1,7 @@
 # First-set
 A simple first-set calculator
-Input:
+
+Sample Input:
 
 S ABC
 
@@ -12,7 +13,7 @@ C e|f|;
 
 END_OF_GRAMMAR
 
-Output:
+Sample Output:
 
 A ;abef
 
